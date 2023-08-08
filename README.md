@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thomy-Ledesma
-- 👀 I’m interested in learning fullstack development and becoming a programmer
-- 🌱 I’m currently learning JS with html and, C and studying programming at UTN Rosario, Argentina
+- 👀 I’m interested in learning full-stack development and becoming a programmer
+- 🌱 I’m currently learning JS with HTML and CSS, C and studying programming at UTN Rosario, Argentina
 - 📫 How to reach me: thoomiledesma@gmail.com
 
 <!---
