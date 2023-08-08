@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thomy-Ledesma
-- 👀 I’m interested in learning front end development and becoming a programmer
-- 🌱 I’m currently learning CSS
-- 📫 How to reach me: @Thomy_Ledesma on IG
+- 👀 I’m interested in learning fullstack development and becoming a programmer
+- 🌱 I’m currently learning JS with html and, C and studying programming at UTN Rosario, Argentina
+- 📫 How to reach me: thoomiledesma@gmail.com
 
 <!---
 Thomy-Ledesma/Thomy-Ledesma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
